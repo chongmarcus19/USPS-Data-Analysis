@@ -21,7 +21,7 @@ Overall of the three data structures, we recommend the use of the hash table dat
 
 ## Snaps
 
-<img src="screenshots/Screen Shot 2021-11-18 at 2.58.37 PM.png" height="600px" width="950pxpx">
+<img src="screenshots/Screen Shot 2021-11-18 at 2.58.37 PM.png" height="1000px" width="950pxpx">
 <img src="screenshots/Screen Shot 2021-11-18 at 2.59.04 PM.png" height="350px" width="950pxpx">
 <img src="screenshots/Screen Shot 2021-11-18 at 2.59.27 PM.png" height="350px" width="950pxpx">
 <img src="screenshots/Screen Shot 2021-11-18 at 2.59.45 PM.png" height="350px" width="950pxpx">
