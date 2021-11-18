@@ -1,4 +1,4 @@
-# USPS-Data-Analysis
+# USPS Data Analysis
 Performed data analysis on two sets of experimental data used for tracking USPS shipments in order to find the data structure that yields the most ideal balance in run-time performance.
 
 ## Analysis
