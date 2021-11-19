@@ -19,7 +19,7 @@ Hash tables overall took very little time and were comparable to the times for B
 ## Conclusion
 Overall of the three data structures, we recommend the use of the hash table data structure to be the foundation for its mail tracking software. It provides the fastest and most efficient method of traversal, outperforming its competition with marginal to significant gains in all areas.
 
-## Snaps
+## Visualization
 
 <img src="screenshots/Screen Shot 2021-11-18 at 2.58.37 PM.png" height="1000px" width="950pxpx">
 <img src="screenshots/Screen Shot 2021-11-18 at 2.59.04 PM.png" height="1000px" width="950pxpx">
